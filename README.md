@@ -173,14 +173,14 @@
 
 ###  Reinforcement Learning - Reinforcement Learning 
 
--[Chainer RL
+- [Chainer RL
 ](github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 
--[CleanRL](github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+- [CleanRL](github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 
--[Coach
+- [Coach
 ](github.com/IntelLabs/coach) - Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
--[DeepMind Lab
+- [DeepMind Lab
 ](github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 
