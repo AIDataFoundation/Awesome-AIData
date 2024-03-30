@@ -1,5 +1,35 @@
 # Open Source Innovation in Artificial Intelligence and Data
 
+### Programming 
+
+- [Dask](github.com/dask/dask) - Parallel computing with task scheduling
+- [Infer.net
+](github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
+
+- [Julia](github.com/JuliaLang/julia) - The Julia Programming Language
+
+- [Kompute](github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation.
+- [MARS](github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
+
+- [Numba](github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [NumPy](github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+
+- [Nyoka](github.com/SoftwareAG/nyoka) - Nyoka is a Python library that helps to export ML models into PMML (PMML 4.4.1 Standard).
+- [Pomegranete](github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python
+
+- [PyMC3](github.com/pymc-devs/pymc) - Bayesian Modeling in Python with MCMC and VI
+
+- [Pyro](github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
+- [Python](github.com/python/cpython) - The Python programming language
+
+- [RStudio IDE](github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
+
+- [SciPy](github.com/scipy/scipy) - SciPy library main repository
+
+- [SKIP Language](github.com/skiplang/skip) - A programming language to skip the things you have already computed
+
+- [Stan](github.com/stan-dev/stan) - Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development. See the Developer Process Wiki for details.
+
 
 ### Machine Learning - Framework
 
@@ -183,4 +213,127 @@
 
 - [DeepMind Lab
 ](github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
+
+- [Dopamine](github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms 
+
+- [Horizon
+](github.com/facebookresearch/ReAgent) -  A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
+
+- [OpenAI Gym](github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+
+- [PlaNet](github.com/google-research/planet) - Learning Latent Dynamics for Planning from Pixels
+
+- [SEED RL](github.com/google-research/seed_rl) - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+
+- [Stable Baselines](github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
+
+### Data - Education
+
+- [DataPractices](github.com/datapractices/data-practices-site) - Datapractices site
+
+- [OpenDS4All](github.com/odpi/OpenDS4All) - OpenDS4All project, hosted by LF AI & Data
+ 
+### Data Lineage
+- [OpenBytes](github.com/Project-OpenBytes/OpenBytes) - This repo contains documentation related to the operation of the OpenBytes project.
+
+- [OpenDataology](github.com/OpenDataology/OpenDataology) - Best practices for AI dataset metadata and license compliance
+
+- [OpenLineage](github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+
+### Data Relational DB
+- [CouchDB](github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
+
+- [MySQL](github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database
+
+- [Postgres](github.com/postgres/postgres) -Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github
+
+- [TiKV](github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+
+### Data Store & Format
+- [Alluxio](github.com/alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
+
+- [Apache Iceberg](github.com/apache/iceberg) - Apache Iceberg
+
+- [Apache ORC](github.com/apache/orc) - Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
+
+- [AresDB](github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
+
+- [Arrow](github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+
+- [Avro](github.com/apache/avro) - Apache Avro is a data serialization system.
+
+- [Ceph](github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
+
+- [Delta Lake](github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+
+- [Docarrary](github.com/docarray/docarray) - Represent, send, store and search multimodal data
+
+- [Druid](github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
+
+- [Hudi](github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data
+
+- [HugeGraph](github.com/apache/incubator-hugegraph) - A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
+
+- [InfluxDB](github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+
+- [JanusGraph](github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
+
+- [LakeSoul](github.com/meta-soul/LakeSoul) - LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.
+
+- [Milvus](github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+
+- [pandas](github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+- [Parquet](github.com/apache/parquet-format) - Apache Parquet
+
+- [Pilosa](github.com/pilosa/pilosa) - A crazy fast analytical database, built on bitmaps. Perfect for ML applications
+
+- [StarRocks](github.com/StarRocks/starrocks) -  StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
+
+- [Vald
+](github.com/vdaas/vald) - Vald is an advanced, scalable vector search engine, tailored for AI and machine learning applications in the cloud-native ecosystem. Specializing in high-dimensional vector data, it provides efficient and near real-time search capabilities, essential for handling vast datasets in AI research and development. Designed for seamless integration and user-friendliness, Vald supports AI innovators with state-of-the-art search technology
+
+- [VEARCH](github.com/vearch/vearch) - A distributed system for embedding-based vector retrieval
+
+- [Vespa](github.com/vespa-engine/vespa) - The open big data serving engine. 
+
+- [Vineyard](github.com/v6d-io/v6d) - Vineyard (v6d) is an in-memory immutable data manager.
+
+### Data Versioning
+- [dotmesh](github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes
+
+- [DVC](github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+
+- [FastTrackML](github.com/G-Research/fasttrackml) - Experiment tracking server focused on speed and scalability
+
+- [Quilt Data](github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
+
+### Data Operations
+- [Amundsen](github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+
+- [Apache Hive](github.com/apache/hive) - Apache Hive
+
+- [CKAN](github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+
+- [DataHub](github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+
+- [Datashim](github.com/datashim-io/datashim) - A kubernetes based framework for hassle free handling of datasets
+
+- [great_expectations](github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+
+
+- [Marquez
+](github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
+
+- [Mathesar](github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
+
+- [snorkel](github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
+
+- [whylogs
+](github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collection, ensuring safety & robustness. 📈
+### Data  Feature Engineering
+- [Feast](github.com/feast-dev/feast) - Feature Store for Machine Learning
+
+
+
 
