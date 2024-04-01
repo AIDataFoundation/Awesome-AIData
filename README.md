@@ -334,6 +334,106 @@
 ### Data  Feature Engineering
 - [Feast](github.com/feast-dev/feast) - Feature Store for Machine Learning
 
+- [Feathr](github.com/linkedin/feathr) -  A scalable, unified data and AI engineering platform for enterprise
+
+- [Featuretools](github.com/alteryx/featuretools) - An open source python library for automated feature engineering
+
+- [OpenMLDB](github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
+
+- [tsfresh](github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series
+
+### Data  Stream Processing
+
+- [Apache RocketMQ](github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+
+- [Beam](github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
+
+- [Brooklin
+](github.com/linkedin/Brooklin) - An extensible distributed system for reliable nearline data streaming at scale
+
+- [faust](github.com/robinhood/faust) - Python Stream Processing
+
+- [Flink](github.com/apache/flink) - Apache Flink
+
+- [Fluentd](github.com/fluent/fluentd) - Fluentd: Unified Logging Layer
+
+- [Kafka](github.com/apache/kafka) -  Mirror of Apache Kafka
+
+- [Logstash](github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+
+- [NNStreamer](github.com/nnstreamer/nnstreamer) - Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
+
+- [Pravega](github.com/pravega/pravega) -  Pravega - Streaming as a new software defined storage primitive
+
+- [PREFECT](github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+
+- [Pulsar](github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
+
+- [Samza](github.com/apache/samza) - Mirror of Apache Samza
+
+- [uReplicator](github.com/uber/uReplicator) -  Improvement of Apache Kafka Mirrormaker
+
+### Data SQL Engine
+
+- [Apache Drill](github.com/apache/drill) -  Apache Drill is a distributed MPP query layer for self describing data
+
+- [Hawq](github.com/apache/hawq) - Apache HAWQ
+
+- [Presto]() -  The official home of the Presto distributed SQL query engine for big data
+
+- [SQLFlow](github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
+
+- [Trino](github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+### Data  Visualization
+
+- [bokeh](github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+
+- [Carbon](github.com/carbon-design-system/carbon) - A design system built by IBM
+
+- [D3js](github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉
+
+- [dash](github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
+- [deck.gl](github.com/visgl/deck.gl) -  WebGL2 powered visualization framework
+
+- [ecco](github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
+
+- [Facets](github.com/PAIR-code/facets) -  Visualizations for machine learning datasets
+
+- [Grafana](github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+
+- [Metabase
+](github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 
+- [Prometheus](github.com/prometheus/prometheus)- The Prometheus monitoring system and time series database.
+
+- [RCloud](github.com/att/rcloud) - Collaborative data analysis and visualization
+
+- [redash](github.com/getredash/redash ) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+- [seaborn
+](github.com/mwaskom/seaborn) - Statistical data visualization in Python
+
+- [Superset](github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
+- [TensorBoard](
+github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+
+### Data  Pipeline Management
+- [Analytics Zoo
+](github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+
+- [Apache Oozie](github.com/apache/oozie) - Mirror of Apache Oozie
+
+- [Artigraph
+](github.com/artigraph/artigraph) - 
+Artigraph is a tool to improve the authorship, management, and quality of data. It emphasizes that the core deliverable of a data pipeline or workflow is the data, not the tasks.
+
+
+
+
+
+
 
 
 
